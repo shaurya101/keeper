@@ -2,7 +2,7 @@
   "name": "keeper",
   "homepage": "https://shaurya101.github.io/keeper",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
